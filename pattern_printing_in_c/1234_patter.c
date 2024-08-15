@@ -2,7 +2,7 @@
 int main()
 {
     int r,c,i,j;
-    printf("Enter number of row : ");
+    printf("2 dalal : ");
     scanf("%d",&r);
     printf("Enter number of column : ");
     scanf("%d", &c);
